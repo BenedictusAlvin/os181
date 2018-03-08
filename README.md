@@ -6,3 +6,5 @@ ZCZC W01 Telah Mencoba Tutorial 1
 ZCZC W02 Sudah Mencoba Tutorial 2
 
 ZCZC W03 telah dilaksanakan
+
+ZCZC W04 sudah mencoba tutorial 4

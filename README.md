@@ -8,3 +8,5 @@ ZCZC W02 Sudah Mencoba Tutorial 2
 ZCZC W03 telah dilaksanakan
 
 ZCZC W04 sudah mencoba tutorial 4
+
+ZCZC W05 sudah dilakukan

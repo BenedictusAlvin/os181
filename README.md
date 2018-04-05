@@ -10,3 +10,5 @@ ZCZC W03 telah dilaksanakan
 ZCZC W04 sudah mencoba tutorial 4
 
 ZCZC W05 sudah dilakukan
+
+ZCZC W06 tutorial 6 sudah dicoba

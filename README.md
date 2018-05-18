@@ -18,3 +18,5 @@ ZCZC W07 sudah mencoba tutorial 7
 ZCZC W08 sudah dicoba
 
 ZCZC W09 sudah dicoba
+
+ZCZC W10 sudah mencoba tutorial 10
